@@ -1,0 +1,7 @@
+{
+  "name": " Rafay Passport & Visa Analytics",
+  "description": "A comprehensive passport data entry and analysis tool. Simulates backend processing for visa tracking and uses Google Gemini to provide intelligent travel profile insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
